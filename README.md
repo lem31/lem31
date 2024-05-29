@@ -16,6 +16,8 @@ Resources that help me with my design and coding endeavours:
 ![Static Badge](https://img.shields.io/badge/githubpages-white?style=for-the-badge&logo=githubpages&logoColor=white&color=black)
 ![Static Badge](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=white&color=%23FF33A9)
 ![Static Badge](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&color=%23FFA233)
+![Static Badge](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=white&color=blue)
+
 
 
 
