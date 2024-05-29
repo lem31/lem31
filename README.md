@@ -14,6 +14,13 @@ I am originally from the UK and living in Norway.❄️
 I enjoy coding because I learn something new every day and love the challenge! 💪
 
 
+- 🔭 I’m currently working on a portfolio website :-)
+- 🌱 I’m currently learning something new every day!
+- 💬 Ask me about anything!
+- 📫 How to reach me: lemeyer.no@gmail.com
+- ⚡ Fun fact: I can speak 4 languages, as well as write code in 3 
+
+
 👩‍💻 Resources and technology that help me with my design and coding endeavours:
 
 ![Static Badge](https://img.shields.io/badge/githubpages-white?style=for-the-badge&logo=githubpages&logoColor=white&color=black)
@@ -26,11 +33,6 @@ I enjoy coding because I learn something new every day and love the challenge! �
 ![Static Badge](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&color=%23654EC0)
 
 
-- 🔭 I’m currently working on a portfolio website :-)
-- 🌱 I’m currently learning something new every day!
-- 💬 Ask me about anything!
-- 📫 How to reach me: lemeyer.no@gmail.com
-- ⚡ Fun fact: I can speak 4 languages, as well as write code in 3 
 
 [![Leanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=lem31&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged )](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lem31&show_icons=true&theme=radical)](https://git.io/streak-stats)
