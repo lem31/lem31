@@ -44,7 +44,7 @@ I am originally from the UK and living in Norway.
 I enjoy coding because I learn something new every day and love the challenge! 
 
 <p>“If you believe I could use a little boost, why not surprise me with a cup of coffee or tea?” ☕🌟 </p>
-<a href="https://www.buymeacoffee.com/LeanneMeyer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/LeanneMeyer"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=LeanneMeyer&button_colour=f02d8c&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 
 
