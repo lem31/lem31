@@ -9,6 +9,7 @@
 
 
 I am originally from the UK and living in Norway.❄️ 
+
 I enjoy coding because I learn something new every day and love the challenge! 💪
 
 Resources and technology that help me with my design and coding endeavours:
