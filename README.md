@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=lem31&color=ff69b4&abbreviated=true)
 
-![Static Badge](https://img.shields.io/badge/Figma?logo=figma&logoColor=%23F24E1E&color=violet)
+
 
 I am originally from the UK and living in Norway. 
 I enjoy coding because I learn something new every day and love the challenge! 
