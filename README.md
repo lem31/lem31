@@ -29,7 +29,7 @@ Resources and technology that help me with my design and coding endeavours:
 - 📫 How to reach me: lemeyer.no@gmail.com
 - ⚡ Fun fact: I can speak 4 languages, as well as write code in 3 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Leanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=lem31)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
