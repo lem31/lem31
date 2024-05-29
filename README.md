@@ -23,25 +23,16 @@ Resources and technology that help me with my design and coding endeavours:
 ![Static Badge](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&color=%23654EC0)
 
 
-
-
-
-
-
-
-
-
-
 - 🔭 I’m currently working on a portfolio website :-)
 - 🌱 I’m currently learning something new every day!
 - 💬 Ask me about anything!
 - 📫 How to reach me: lemeyer.no@gmail.com
 - ⚡ Fun fact: I can speak 4 languages, as well as write code in 3 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
-I am originally from the UK and living in Norway. 
-I enjoy coding because I learn something new every day and love the challenge! 
+
 
 <p>“If you believe I could use a little boost, why not surprise me with a cup of coffee or tea?” ☕🌟 </p>
 <a href="https://www.buymeacoffee.com/LeanneMeyer"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=LeanneMeyer&button_colour=f02d8c&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
