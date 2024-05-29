@@ -11,9 +11,11 @@
 I am originally from the UK and living in Norway. 
 I enjoy coding because I learn something new every day and love the challenge! 
 
-Resources that help me with my every day endeavours:
+Resources that help me with my design and coding endeavours:
 
 ![Static Badge](https://img.shields.io/badge/githubpages-white?style=for-the-badge&logo=githubpages&logoColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=white&color=%23FF33A9)
+
 
 
 
