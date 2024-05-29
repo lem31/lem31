@@ -8,8 +8,8 @@
 
 
 
-I am originally from the UK and living in Norway. 
-I enjoy coding because I learn something new every day and love the challenge! 
+I am originally from the UK and living in Norway.❄️ 
+I enjoy coding because I learn something new every day and love the challenge! 💪
 
 Resources and technology that help me with my design and coding endeavours:
 
@@ -38,7 +38,7 @@ Resources and technology that help me with my design and coding endeavours:
 <p>“If you believe I could use a little boost, why not surprise me with a cup of coffee or tea?” ☕🌟 </p>
 <a href="https://www.buymeacoffee.com/LeanneMeyer"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=LeanneMeyer&button_colour=f02d8c&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
-A clip of my latest work: 
+:rocket: A clip of my latest work 
 
 https://github.com/lem31/lem31/assets/112780194/689b8e84-01c8-4c6b-8a7b-ecbe1399f973
 
