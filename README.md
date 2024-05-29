@@ -20,6 +20,8 @@ Resources and technology that help me with my design and coding endeavours:
 ![Static Badge](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript&logoColor=black&color=%23F4EE43)
 ![Static Badge](https://img.shields.io/badge/Canva-white?style=for-the-badge&logo=canva&logoColor=white&color=%23E943F4)
 ![Static Badge](https://img.shields.io/badge/MDN-white?style=for-the-badge&logo=mdnwebdocs&logoColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&color=%23654EC0)
+
 
 
 
