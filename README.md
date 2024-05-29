@@ -30,7 +30,7 @@ Resources and technology that help me with my design and coding endeavours:
 - ⚡ Fun fact: I can speak 4 languages, as well as write code in 3 
 
 [![Leanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=lem31&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lem31)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lem31&show_icons=true&theme=radical)](https://git.io/streak-stats)
 
 
 
