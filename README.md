@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I can speak 4 languages, as well as write code in 3 
 -->
 
-About me 
+
 I am originally from the UK and living in Norway. 
 I enjoy coding because I learn something new every day and love the challenge! 
 
