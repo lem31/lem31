@@ -7,12 +7,14 @@
 ![](https://komarev.com/ghpvc/?username=lem31&color=ff69b4&abbreviated=true)
 
 
+ℹ️ A little bit about me
 
 I am originally from the UK and living in Norway.❄️ 
 
 I enjoy coding because I learn something new every day and love the challenge! 💪
 
-Resources and technology that help me with my design and coding endeavours:
+
+👩‍💻 Resources and technology that help me with my design and coding endeavours:
 
 ![Static Badge](https://img.shields.io/badge/githubpages-white?style=for-the-badge&logo=githubpages&logoColor=white&color=black)
 ![Static Badge](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=white&color=%23FF33A9)
