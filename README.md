@@ -2,6 +2,13 @@
 
 <!--
 **lem31/lem31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+![](https://komarev.com/ghpvc/?username=lem31&color=ff69b4&abbreviated=true)
+
+I am originally from the UK and living in Norway. 
+I enjoy coding because I learn something new every day and love the challenge! 
+
 
 
 - 🔭 I’m currently working on a portfolio website :-)
@@ -9,7 +16,7 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: lemeyer.no@gmail.com
 - ⚡ Fun fact: I can speak 4 languages, as well as write code in 3 
--->
+
 
 
 I am originally from the UK and living in Norway. 
