@@ -34,7 +34,7 @@ I enjoy coding because I learn something new every day and love the challenge! ð
 
 
 
-[![Leanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=lem31&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged )](https://github.com/anuraghazra/github-readme-stats)
+[![Leanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=lem31&show_icons=true&theme=radical&show=reviews,prs_merged )](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lem31&show_icons=true&theme=radical)](https://git.io/streak-stats)
 
 
