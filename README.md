@@ -18,7 +18,7 @@ I enjoy coding because I learn something new every day and love the challenge! �
 - 🌱 I’m currently learning something new every day!
 - 💬 Ask me about anything!
 - 📫 How to reach me: lemeyer.no@gmail.com
-- ⚡ Fun fact: I can speak 4 languages, as well as write code in 3 
+- ⚡ Fun fact: I can speak 4 languages
 
 
 👩‍💻 Resources and technology that help me with my design and coding endeavours:
