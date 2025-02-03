@@ -33,7 +33,7 @@ I enjoy coding because I learn something new every day and love the challenge! ð
 ![Static Badge](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&color=%23654EC0)
 ![Static Badge](https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite&logoColor=%23FFA233&color=%23654EC0)
 ![Static Badge](https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=blue&color=lightgrey)
-
+![Static Badge](https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=sass&logoColor=white&color=purple)
 
 [![Leanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=lem31&show_icons=true&theme=radical&show=reviews,prs_merged )](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lem31&show_icons=true&theme=radical)](https://git.io/streak-stats)
