@@ -14,7 +14,7 @@ I am originally from the UK and living in Norway.❄️
 I enjoy coding because I learn something new every day and love the challenge! 💪
 
 
-- 🔭 I’m currently working on a portfolio website :-)
+
 - 🌱 I’m currently learning something new every day!
 - 💬 Ask me about anything!
 - 📫 How to reach me: lemeyer.no@gmail.com
