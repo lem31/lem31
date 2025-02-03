@@ -31,7 +31,7 @@ I enjoy coding because I learn something new every day and love the challenge! ð
 ![Static Badge](https://img.shields.io/badge/Canva-white?style=for-the-badge&logo=canva&logoColor=white&color=%23E943F4)
 ![Static Badge](https://img.shields.io/badge/MDN-white?style=for-the-badge&logo=mdnwebdocs&logoColor=white&color=black)
 ![Static Badge](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&color=%23654EC0)
-![Static Badge](https://img.shields.io/badge/Vite-%23654EC0?style=for-the-badge&logo=vite&logoColor=%23FFA233&color=%23654EC0)
+![Static Badge](https://img.shields.io/badge/Vite-orange?style=for-the-badge&logo=vite&logoColor=%23FFA233&color=%23654EC0)
 
 
 
