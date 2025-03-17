@@ -41,10 +41,8 @@ I enjoy coding because I learn something new every day and love the challenge! ð
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lem31&show_icons=true&theme=radical)](https://git.io/streak-stats)
 
 
-<br> <br>
-:rocket: A clip of one of my recent website creations
 
-https://github.com/lem31/lem31/assets/112780194/689b8e84-01c8-4c6b-8a7b-ecbe1399f973
+
 
 
 
