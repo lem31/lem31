@@ -22,7 +22,7 @@ I enjoy coding because I learn something new every day and love the challenge! �
 - ⚡ Fun fact: I can speak 4 languages
 
 
-👩‍💻 Resources and technology that help me with my design and coding endeavours:
+<h2><strong>👩‍💻 Some of the Resources and Technology that help me with my development endeavours</strong></h2>
 
 ![Static Badge](https://img.shields.io/badge/githubpages-white?style=for-the-badge&logo=githubpages&logoColor=white&color=black)
 ![Static Badge](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=white&color=%23FF33A9)
