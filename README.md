@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/JwqRPbM6/Blue-and-Purple-Gradient-Cyberpunk-Technology-Twitter-Header.gif" alt="Video Demo">
+<img src="BannerGithub.gif" alt="Video Demo">
 
 <!--
 **lem31/lem31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
