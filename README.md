@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Leanne Meyer 
+![Banner](https://i.ibb.co/JwqRPbM6/Blue-and-Purple-Gradient-Cyberpunk-Technology-Twitter-Header.gif)
 
 <!--
 **lem31/lem31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
