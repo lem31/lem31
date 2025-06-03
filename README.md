@@ -43,6 +43,7 @@ I enjoy coding because I learn something new every day and love the challenge! ð
 
 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)
 
 
 
