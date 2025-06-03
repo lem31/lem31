@@ -39,6 +39,7 @@ I enjoy coding because I learn something new every day and love the challenge! ð
 
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lem31&show_icons=true&theme=radical)
 
 
 
