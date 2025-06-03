@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=lem31&color=ff69b4&abbreviated=true)
 
 
-ℹ️ A little bit about me
+<h1><strong>ℹ️ A little bit about me</strong></h1>
 
 I am originally from the UK and living in Norway.❄️ 
 
