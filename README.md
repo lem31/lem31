@@ -38,7 +38,7 @@ I enjoy coding because I learn something new every day and love the challenge! ð
 ![Static Badge](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=darkblue&color=turquoise)
 
 
-<h3><strong>My Stats</strong></h3>
+<h2><strong>My Stats</strong></h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lem31&show_icons=true&theme=radical)
 
