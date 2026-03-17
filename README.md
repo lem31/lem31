@@ -24,7 +24,7 @@
 
   - 🔥 [ToolsOnFire](https://www.toolsonfire.com) - Free online productivity tools I built with Next.js, including a video to GIF converter, AI voice separator, markdown
    converter, AI sticker creator, and more.
-  - 🇳🇴 [Hidden Norway](https://www.hiddennorway.com) - Discover hidden gems and off-the-beaten-path destinations across Norway.
+    - [Hidden Norway](https://www.hiddennorway.com) - Discover hidden gems and off-the-beaten-path destinations across Norway.
 
   <h2><strong>👩‍💻 Some Resources and Technology I've used</strong></h2>
 
