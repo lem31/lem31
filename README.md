@@ -20,13 +20,15 @@
   - 📫 How to reach me: lemeyer.no@gmail.com
   - ⚡ Fun fact: I can speak 4 languages
 
-  <h2><strong>🚀 My Projects</strong></h2>
+<h2><strong>🚀 My Projects</strong></h2>
 
-  - 🔥 [ToolsOnFire](https://www.toolsonfire.com) - Free online productivity tools I built with Next.js, including a video to GIF converter, AI voice separator, markdown
-   converter, AI sticker creator, and more.
+- 🔥 [ToolsOnFire](https://www.toolsonfire.com) - Free online productivity tools I built with Next.js, including a video to GIF converter, AI voice separator, markdown converter, AI sticker creator, and more.
+
 - [Hidden Norway](https://www.hiddennorway.com) - Discover hidden gems and off-the-beaten-path destinations across Norway.
-- [Talkbuoy](https://www.talkbuoy.com) - AI-powered assistant for interviews, speeches, revision, podcasts & conversations. Tired of AI interviews and rapid-fire questions where you have no time to think? Get your own back with TalkBuoy.
 
+- 🧠 [TalkBuoy](https://www.talkbuoy.com) - AI-powered assistant for interviews, speeches, revision, podcasts & conversations. Tired of AI interviews and rapid-fire questions where you have no time to think? Get your own back with TalkBuoy.
+
+- 🎙️ [Meeting Transcriber](https://www.meetingrecordntranscribe.app/) - AI-powered app that records your meetings, transcribes audio to text with timestamps, and generates intelligent summaries. Works directly in your browser and as a mobile app.
 
 
   <h2><strong>👩‍💻 Some Resources and Technology I've used</strong></h2>
